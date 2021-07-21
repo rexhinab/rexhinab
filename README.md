@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Semantic Parsing
-- 🌱 I’m currently learning my fifth language --> Portoguese
 - 🤔 I’m looking for a postdoctoral position in industry (or academia...)
+- 🔭 I’m currently working on Semantic Parsing
+- 🌱 I’m currently learning my fifth language --> Portuguese
 - 💬 Ask me about GSRL, SPRING and XL-AMR 😄
 - 📫 How to reach me: blloshmi[at]di.uniroma1.it
 - 😄 Pronouns: she/her
