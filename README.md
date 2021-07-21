@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :four_leaf_clover: I'm a member of Sapienza NLP
+- :mortar_board: I'm about to become a PhD in Computer Science 
 - 🤔 I’m looking for a postdoctoral position in industry (or academia...)
 - 🔭 I’m currently working on Semantic Parsing
 - 🌱 I’m currently learning my fifth language --> Portuguese
