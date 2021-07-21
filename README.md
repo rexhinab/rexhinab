@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Semantic Parsing
+- 🌱 I’m currently learning my fifth language --> Portoguese
+- 🤔 I’m looking for a postdoctoral position in industry (or academia...)
+- 💬 Ask me about GSRL, SPRING and XL-AMR 😄
+- 📫 How to reach me: blloshmi@di.uniroma1.it
+- 😄 Pronouns: she/her
 <!--
 **rexhinab/rexhinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
