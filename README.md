@@ -6,7 +6,7 @@
 - 💬 Ask me about GSRL, SPRING and XL-AMR 😄
 - 📫 How to reach me: blloshmi@di.uniroma1.it
 - 😄 Pronouns: she/her
--:heart: My advise: Visit ALBANIA 🇦🇱 
+- :heart: My advise: Visit ALBANIA 🇦🇱 
 <!--
 **rexhinab/rexhinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
