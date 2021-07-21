@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning my fifth language --> Portoguese
 - 🤔 I’m looking for a postdoctoral position in industry (or academia...)
 - 💬 Ask me about GSRL, SPRING and XL-AMR 😄
-- 📫 How to reach me: blloshmi@di.uniroma1.it
+- 📫 How to reach me: blloshmi[at]di.uniroma1.it
 - 😄 Pronouns: she/her
 - :heart: My advice: Visit ALBANIA 🇦🇱 
 <!--
