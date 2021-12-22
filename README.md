@@ -3,7 +3,7 @@
 - :four_leaf_clover: I'm a member of Sapienza NLP
 - :mortar_board: I'm about to become a PhD in Computer Science 
 - 🔭 I’m currently working on Semantic Parsing
-- 💬 Ask me about GSRL, SPRING and XL-AMR 😄
+- 💬 Ask me about SIR, GSRL, SPRING and XL-AMR 😄
 - 🌱 I’m currently learning my sixth language --> Portuguese
 - 📫 How to reach me: blloshmi[at]di.uniroma1.it
 - 😄 Pronouns: she/her
