@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- :four_leaf_clover: I'm a member of Sapienza NLP
-- :mortar_board: I'm about to become a PhD in Computer Science 
-- 🔭 I’m currently working on Semantic Parsing
+- :mortar_board: I'm a PhD in Computer Science 
 - 💬 Ask me about SIR, GSRL, SPRING and XL-AMR 😄
 - 🌱 I’m currently learning my sixth language --> Portuguese
-- 📫 How to reach me: blloshmi[at]di.uniroma1.it
+- 📫 How to reach me: rexhinablloshmi[at]gmail.com
 - 😄 Pronouns: she/her
 - :heart: Advice: Visit ALBANIA 🇦🇱 
 <!--
