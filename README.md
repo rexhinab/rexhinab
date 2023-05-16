@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :mortar_board: I'm a PhD in Computer Science 
+- :mortar_board: I completed my PhD in Computer Science as Sapienza NLP in Feb'22 and I am a Machine Learning Scientist in Amazon Alexa AI since then. 
 - 💬 Ask me about SIR, GSRL, SPRING and XL-AMR 😄
 - 🌱 I’m currently learning my sixth language --> Portuguese
 - 📫 How to reach me: rexhinablloshmi[at]gmail.com
